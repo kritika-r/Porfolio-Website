@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding-top: 800px;
+    text-align: center;
 }
 
 .profile {
@@ -48,7 +49,7 @@ h2 {
     font-family: monospace
 }
 
-#bio {
+#bio,#videos,#work {
 
     padding: 50px;
     text-align: center;
@@ -100,3 +101,12 @@ p {
 .links:hover{
     background-color: dodgerblue;
 }
+.test{
+    text-decoration: none;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+
+   
